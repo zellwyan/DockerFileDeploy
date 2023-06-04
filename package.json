@@ -2,13 +2,12 @@
     "name": "docker_web_app",
     "version": "1.0.0",
     "description": "Node.js on Docker",
-    "author": "Ya Ze
-    <zellwyan@students.zhaw.com>",
+    "author": "First Last <last.first@example.com>",
     "main": "server.js",
     "scripts": {
-    "start": "node server.js"
+      "start": "node server.js"
     },
     "dependencies": {
-    "express": "^4.16.1"
+      "express": "^4.16.1"
     }
-    }
+}
